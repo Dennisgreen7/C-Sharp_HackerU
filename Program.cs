@@ -101,11 +101,11 @@ namespace HM_ARRY
         }
         static void Main(string[] args)
         {
-            //targil1();
+            targil1();
             targil2();
-            //targil3();
-            //targil45();
-            //targil6();
+            targil3();
+            targil45();
+            targil6();
             Console.ReadLine();
         }
     }
